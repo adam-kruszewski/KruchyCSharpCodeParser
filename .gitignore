@@ -34,3 +34,5 @@
 *.vs
 bin
 obj
+.suo
+/Source/.vs/KruchyCSharpCodeParser/v17/.suo
